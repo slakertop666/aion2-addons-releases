@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.9",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.9/Aion2Addons-Setup-1.1.9.exe",
-  "size": 115687676,
-  "sha256": "c1e3ae52b95aa1eb086c34d9f3ca88a101106ec0023ed6846818f44792072c35",
-  "notes": "Мини-окно DPS 104×28 показывает личный урон в секунду во время боя. Таблица участников, история и подробности открываются по щелчку."
+  "version": "1.1.10",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.10/Aion2Addons-Setup-1.1.10.exe",
+  "size": 115705925,
+  "sha256": "ab768668da9ffa43a42f93bf926faa63747759be5a5dea0f9ea6ef8e976dfc29",
+  "notes": "Советы над карточками питомцев Чёрного рынка. Дозор в Бертроне и Элтенене, озвучка класса и сохранение размера окна. Крестик подробностей DPS возвращает мини-окно."
 }
