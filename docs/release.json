@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.13",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.13/Aion2Addons-Setup-1.1.13.exe",
-  "size": 115729983,
-  "sha256": "6bc4f12665331a7e59a1a6892d21836ff1c13d1b200b2ddaa20d84bcdb7d26ff",
-  "notes": "Панель «Кого фармить» учитывает масштаб Windows, переносит длинные строки и остаётся в рабочей области экрана."
+  "version": "1.1.14",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.14/Aion2Addons-Setup-1.1.14.exe",
+  "size": 115737286,
+  "sha256": "a1670743888cdf04417b784a221a73009d16efd8d3c05ab3c43403ffafe04837",
+  "notes": "Общий захват для Бездны и арены, ближайшие мобы под целью фарма, единое оформление окон."
 }
