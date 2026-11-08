@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0b1018">
+<link rel="icon" href="sigil.svg" type="image/svg+xml">
+<link rel="preload" href="atreia.webp" as="image">
+<meta name="description" content="Мастер-клиент Aion 2 Addons для Windows. Один установщик для 11 игровых аддонов.">
+<title>Aion 2 Addons — мастер-клиент</title>
+<link rel="stylesheet" href="style.css">
+<script src="release.js" defer></script>
+</head>
+<body>
+<header class="top"><div class="wrap nav">
+<a class="brand" href="#top"><img src="sigil.svg" width="31" height="31" alt=""> AION 2 <small>ADDONS</small></a>
+<nav aria-label="Разделы"><a href="#addons">Аддоны</a><a href="#install">Установка</a></nav>
+<a class="nav-download" href="#release">Релиз <span aria-hidden="true">↗</span></a>
+</div></header>
+<main id="top">
+<section class="hero"><div class="wrap hero-grid">
+<div class="pitch">
+<p class="eyebrow"><span></span> Мастер-клиент для Windows</p>
+<h1>AION 2 <em>ADDONS</em></h1>
+<div class="filigree" aria-hidden="true"><span>◆</span></div>
+<p class="hero-heading">Твой набор аддонов<br>для Атреи</p>
+<p class="intro">ДПС-метр, таймеры боссов, скрытые кубы и дозор Бездны. Один клиент для управления 11 игровыми панелями.</p>
+<div class="actions"><a class="cta" href="#release">Скачать для Windows <span aria-hidden="true">↓</span></a><a class="more" href="#addons">Смотреть аддоны <span aria-hidden="true">→</span></a></div>
+<p class="hero-note">Независимый проект сообщества AION 2</p>
+</div>
+</div><div class="hero-edge" aria-hidden="true"><span>✦</span></div></section>
+<section class="wrap section" id="addons">
+<p class="eyebrow"><span></span> В комплекте</p><h2>Выбери свои аддоны</h2>
+<div class="cards">
+<article><span class="icon" aria-hidden="true">⚔</span><h3>Бой</h3><ul><li>ДПС-метр с критами, способностями и историей</li><li>Эмблемы и подсказки по ротации</li><li>Механики боссов подземелий</li></ul></article>
+<article><span class="icon" aria-hidden="true">◇</span><h3>Открытый мир</h3><ul><li>Таймеры выбранных мировых боссов</li><li>Скрытые кубы с метками на мини-карте</li><li>Питомцы, зоны фарма и чёрный рынок</li></ul></article>
+<article><span class="icon" aria-hidden="true">◈</span><h3>Бездна и развитие</h3><ul><li>Дозор Бездны и информация о сопернике на арене 1 на 1</li><li>Очки Бездны за сессию и ОБ/мин</li><li>Характеристики и лимиты расходников роста</li></ul></article>
+</div></section>
+<section class="wrap section client-section">
+<div class="client-copy"><p class="eyebrow"><span></span> Мастер-клиент</p><h2>Твои панели под рукой</h2>
+<p>Запускай нужные аддоны, скрывай их окна и выбирай, какие из них включатся вместе с игрой.</p>
+<div class="filigree" aria-hidden="true"><span>◆</span></div></div>
+<div class="preview" aria-label="Пример интерфейса мастер-клиента">
+<div class="preview-top"><span>✦ &nbsp; AION 2 ADDONS</span><span>ПРИМЕР</span></div>
+<div class="preview-main"><p class="eyebrow">Управление аддонами</p><h2>Твои аддоны</h2><div class="preview-bar"></div>
+<div class="preview-row"><span aria-hidden="true">⚔</span><div><strong>ДПС-метр</strong><small>Урон и история боя</small></div><b>Работает</b></div>
+<div class="preview-row"><span aria-hidden="true">◇</span><div><strong>Скрытые кубы</strong><small>Метки на мини-карте</small></div><b>Работает</b></div>
+<div class="preview-row"><span aria-hidden="true">◈</span><div><strong>Дозор Бездны</strong><small>Противники поблизости</small></div><b class="off">Выключен</b></div>
+</div>
+<div class="preview-bottom">✦ &nbsp; Управляй окнами, не выходя из игры</div>
+</div>
+</section>
+<section class="wrap section" id="install">
+<p class="eyebrow"><span></span> Первые шаги</p><h2>От скачивания до запуска</h2>
+<ol class="steps"><li><strong>Установи мастер-клиент</strong><p>Скачай и запусти установщик Windows. Python уже включён в комплект.</p></li>
+<li><strong>Установи Npcap</strong><p>Сетевые функции используют отдельный драйвер. Ссылка есть в установщике.</p><a href="https://npcap.com/#download">Официальный сайт Npcap ↗</a></li>
+<li><strong>Включи нужные панели</strong><p>В мастер-клиенте отметь нужные аддоны. При выходе новой версии клиент предложит обновление.</p></li></ol>
+</section>
+<section class="wrap section" id="release">
+<div class="release"><div><p class="eyebrow"><span></span> Windows · 64 бит</p><h2>Мастер-клиент</h2><p id="release-info" role="status">Проверяем доступность релиза…</p></div>
+<a id="download" class="cta" hidden>Скачать установщик <span aria-hidden="true">↓</span></a>
+<div class="release-meta" id="release-meta" hidden><p id="release-notes"></p><details><summary>Контрольная сумма SHA-256</summary><code id="checksum"></code></details></div>
+<noscript><p>Включи JavaScript, чтобы загрузить данные релиза.</p></noscript>
+</div></section>
+</main>
+<footer class="wrap foot"><span>✦ &nbsp; AION 2 ADDONS</span><span>Независимый проект. AION 2 принадлежит NC.</span></footer>
+</body>
+</html>
