@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.6",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.6/Aion2Addons-Setup-1.1.6.exe",
-  "size": 115626842,
-  "sha256": "91e6c662224f4678ec7a66dee94ca0eafdf4b654bbbce8d2377e283212328d2c",
-  "notes": "Добавлены цели фарма питомцев за пространственным разломом. Исправлены создание ярлыков и расположение кнопки установки."
+  "version": "1.1.8",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.8/Aion2Addons-Setup-1.1.8.exe",
+  "size": 115686530,
+  "sha256": "6563be96636d4631de6521fe862679aad514adc4a9e629150afc02778cbddbe0",
+  "notes": "Установленная и доступная версии рядом с обновлением. Закрытие мастер-клиента завершает все аддоны. Таймеры разлома и осады Бездны (EU)."
 }
