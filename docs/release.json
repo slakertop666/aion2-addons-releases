@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.12",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.12/Aion2Addons-Setup-1.1.12.exe",
-  "size": 115730889,
-  "sha256": "75101d4932b996f2fe0d5e80c7ed3fe141b3921da1668797494d8b1e2f7adc94",
-  "notes": "Обновление мастер-клиента в один клик. Переключатель автообновления с проверкой каждые 2 минуты. Исправлена озвучка класса по сетевому пакету появления противника."
+  "version": "1.1.13",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.13/Aion2Addons-Setup-1.1.13.exe",
+  "size": 115729983,
+  "sha256": "6bc4f12665331a7e59a1a6892d21836ff1c13d1b200b2ddaa20d84bcdb7d26ff",
+  "notes": "Панель «Кого фармить» учитывает масштаб Windows, переносит длинные строки и остаётся в рабочей области экрана."
 }
