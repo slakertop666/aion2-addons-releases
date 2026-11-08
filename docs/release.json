@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.22",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.22/Aion2Addons-Setup-1.1.22.exe",
-  "size": 115763074,
-  "sha256": "b94b1311bcd09f8d5430abb6db80f195a2d81539bef5bb1a2a6318c2a81dbe8b",
-  "notes": "Киллфид Бездны показывает подтверждённые смерти игроков. Погибшие враги отмечаются в списке."
+  "version": "1.1.23",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.23/Aion2Addons-Setup-1.1.23.exe",
+  "size": 115763394,
+  "sha256": "8b3362e86201ed1ef8e0e3d7cb7851268f83c2d678e5dadc33a5350ef88783f6",
+  "notes": "Спидометр очков Бездны со шкалой до 4 000 ОБ/мин. Замер продолжается при кратком отключении окна."
 }
