@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.17",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.17/Aion2Addons-Setup-1.1.17.exe",
-  "size": 115736872,
-  "sha256": "4d91bf9382f4d81dd3e4ab631639385cf80c16ba9f1065e32ef90d59b32e1b41",
-  "notes": "В выборе мировых боссов родной регион персонажа показывается первым."
+  "version": "1.1.18",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.18/Aion2Addons-Setup-1.1.18.exe",
+  "size": 115737849,
+  "sha256": "50e88dbc3c35a1b0bc886fea3616560ffbed016ee39b0bb9f1ddeb35d100c253",
+  "notes": "Дозор заранее записывает 29 голосовых фраз и воспроизводит их из локальных WAV."
 }
