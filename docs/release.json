@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.14",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.14/Aion2Addons-Setup-1.1.14.exe",
-  "size": 115737286,
-  "sha256": "a1670743888cdf04417b784a221a73009d16efd8d3c05ab3c43403ffafe04837",
-  "notes": "Общий захват для Бездны и арены, ближайшие мобы под целью фарма, единое оформление окон."
+  "version": "1.1.15",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.15/Aion2Addons-Setup-1.1.15.exe",
+  "size": 115736381,
+  "sha256": "399a934aa7ccd47917ba0aacb968d98020ca4f4653047af304f2fe2929b32808",
+  "notes": "Дозор озвучивает только класс противника."
 }
