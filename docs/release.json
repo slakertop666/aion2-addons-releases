@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.5",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.5/Aion2Addons-Setup-1.1.5.exe",
-  "size": 115506080,
-  "sha256": "5339f09f8ff33bc414dca8c02899823aac9e5df476bdb10ecc7ea7b79c7fa8df",
-  "notes": "Добавлено зеркало сайта и резервный адрес проверки обновлений."
+  "version": "1.1.6",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.6/Aion2Addons-Setup-1.1.6.exe",
+  "size": 115626842,
+  "sha256": "91e6c662224f4678ec7a66dee94ca0eafdf4b654bbbce8d2377e283212328d2c",
+  "notes": "Добавлены цели фарма питомцев за пространственным разломом. Исправлены создание ярлыков и расположение кнопки установки."
 }
