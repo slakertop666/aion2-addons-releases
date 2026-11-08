@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.15",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.15/Aion2Addons-Setup-1.1.15.exe",
-  "size": 115736381,
-  "sha256": "399a934aa7ccd47917ba0aacb968d98020ca4f4653047af304f2fe2929b32808",
-  "notes": "Дозор озвучивает только класс противника."
+  "version": "1.1.16",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.16/Aion2Addons-Setup-1.1.16.exe",
+  "size": 115734499,
+  "sha256": "c7a52b74e8688990077c83a6414997dba98c88b8864d298603050cbeb2dff5f7",
+  "notes": "Подсказки над карточками Чёрного рынка появляются автоматически."
 }
