@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.8",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.8/Aion2Addons-Setup-1.1.8.exe",
-  "size": 115686530,
-  "sha256": "6563be96636d4631de6521fe862679aad514adc4a9e629150afc02778cbddbe0",
-  "notes": "Установленная и доступная версии рядом с обновлением. Закрытие мастер-клиента завершает все аддоны. Таймеры разлома и осады Бездны (EU)."
+  "version": "1.1.9",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.9/Aion2Addons-Setup-1.1.9.exe",
+  "size": 115687676,
+  "sha256": "c1e3ae52b95aa1eb086c34d9f3ca88a101106ec0023ed6846818f44792072c35",
+  "notes": "Мини-окно DPS 104×28 показывает личный урон в секунду во время боя. Таблица участников, история и подробности открываются по щелчку."
 }
