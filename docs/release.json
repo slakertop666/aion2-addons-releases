@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.11",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.11/Aion2Addons-Setup-1.1.11.exe",
-  "size": 115728431,
-  "sha256": "b87a7296c8157f9d68701b4c869ee805a887d5186bc7473c4d15077be720e52b",
-  "notes": "Установщик сам закрывает работающие аддоны, ждёт завершения и снова запускает те же панели. Полный выход из трея теперь закрывает все аддоны."
+  "version": "1.1.12",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.12/Aion2Addons-Setup-1.1.12.exe",
+  "size": 115730889,
+  "sha256": "75101d4932b996f2fe0d5e80c7ed3fe141b3921da1668797494d8b1e2f7adc94",
+  "notes": "Обновление мастер-клиента в один клик. Переключатель автообновления с проверкой каждые 2 минуты. Исправлена озвучка класса по сетевому пакету появления противника."
 }
