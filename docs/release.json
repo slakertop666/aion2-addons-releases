@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.20",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.20/Aion2Addons-Setup-1.1.20.exe",
-  "size": 115754828,
-  "sha256": "d29ea9f17187146d801a7909633c0c47e87f03e6af30950e4e55253b8fd7a8b4",
-  "notes": "Счётчик ОБ/мин сохраняет замер при паузах интерфейса. Шестерёнка дозора восстанавливает свёрнутые настройки."
+  "version": "1.1.21",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.21/Aion2Addons-Setup-1.1.21.exe",
+  "size": 115756487,
+  "sha256": "c936f81a408b495ffc2b6711413ac461c91aaeda3e97e75236ad868d5572a3b9",
+  "notes": "Шестерёнка дозора выводит настройки поверх игры и возвращает окно на экран."
 }
