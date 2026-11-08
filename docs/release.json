@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.23",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.23/Aion2Addons-Setup-1.1.23.exe",
-  "size": 115763394,
-  "sha256": "8b3362e86201ed1ef8e0e3d7cb7851268f83c2d678e5dadc33a5350ef88783f6",
-  "notes": "Спидометр очков Бездны со шкалой до 4 000 ОБ/мин. Замер продолжается при кратком отключении окна."
+  "version": "1.1.24",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.24/Aion2Addons-Setup-1.1.24.exe",
+  "size": 115764919,
+  "sha256": "19cea96eb8dbc9939ec343b77171b026cd95b4001b5dcfb7acadfbe70d092939",
+  "notes": "В компактном ДПС-метре во время боя показаны цель и пять лучших результатов."
 }
