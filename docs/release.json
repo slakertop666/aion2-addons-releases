@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.19",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.19/Aion2Addons-Setup-1.1.19.exe",
-  "size": 115755374,
-  "sha256": "935162fe20c3b2a04db97823804205754c0eb95fe39166ebde023b06347d9303",
-  "notes": "Шестерёнка в правом нижнем углу игрового окна открывает мастер-клиент."
+  "version": "1.1.20",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.20/Aion2Addons-Setup-1.1.20.exe",
+  "size": 115754828,
+  "sha256": "d29ea9f17187146d801a7909633c0c47e87f03e6af30950e4e55253b8fd7a8b4",
+  "notes": "Счётчик ОБ/мин сохраняет замер при паузах интерфейса. Шестерёнка дозора восстанавливает свёрнутые настройки."
 }
