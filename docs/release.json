@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.21",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.21/Aion2Addons-Setup-1.1.21.exe",
-  "size": 115756487,
-  "sha256": "c936f81a408b495ffc2b6711413ac461c91aaeda3e97e75236ad868d5572a3b9",
-  "notes": "Шестерёнка дозора выводит настройки поверх игры и возвращает окно на экран."
+  "version": "1.1.22",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.22/Aion2Addons-Setup-1.1.22.exe",
+  "size": 115763074,
+  "sha256": "b94b1311bcd09f8d5430abb6db80f195a2d81539bef5bb1a2a6318c2a81dbe8b",
+  "notes": "Киллфид Бездны показывает подтверждённые смерти игроков. Погибшие враги отмечаются в списке."
 }
