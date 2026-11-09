@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.33",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.33/Aion2Addons-Setup-1.1.33.exe",
-  "size": 115782459,
-  "sha256": "f54a9b99f50debe5e4158fb7363e951fb325abf092d9950a9efe15c3e59a3a9d",
-  "notes": "В основном окне Дозора до восьми игроков и прокрутка. Ранги от Воина 1-го ранга выделяются яркой RGB-подсветкой."
+  "version": "1.1.34",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.34/Aion2Addons-Setup-1.1.34.exe",
+  "size": 115786983,
+  "sha256": "680814656265a49c6354017a87e218459945de90071dbd487d4c6ab386d734f9",
+  "notes": "Противники в Дозоре показаны по одной строке без дистанции. Обновление сохраняет состояние основных окон и вид ДПС-метра."
 }
