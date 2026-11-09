@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.35",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.35/Aion2Addons-Setup-1.1.35.exe",
-  "size": 115793863,
-  "sha256": "50d0d9751d75fffa46887490d6a31b626ae1dc604890105edae3dfb8aaa05dbb",
-  "notes": "Безднометр зажигает RGB-пламя и включает звук разгона выше 1500 ОБ/мин. Исправлен запуск ДПС-метра после обновления."
+  "version": "1.1.36",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.36/Aion2Addons-Setup-1.1.36.exe",
+  "size": 115793050,
+  "sha256": "40b560a14611a036ae3711c303841b2c6b25465d879282c2b5f4572ae775563b",
+  "notes": "Безднометр использует удлинённый звук разгона с двумя переключениями передачи."
 }
