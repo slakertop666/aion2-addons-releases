@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.32",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.32/Aion2Addons-Setup-1.1.32.exe",
-  "size": 115781444,
-  "sha256": "455260ce310e2ce1e00c223574886b1c7188caf78ad38f13c50bb3bd23df54b0",
-  "notes": "В основном окне Дозора ранг показан рядом с ником. Голос называет сначала ранг, затем класс."
+  "version": "1.1.33",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.33/Aion2Addons-Setup-1.1.33.exe",
+  "size": 115782459,
+  "sha256": "f54a9b99f50debe5e4158fb7363e951fb325abf092d9950a9efe15c3e59a3a9d",
+  "notes": "В основном окне Дозора до восьми игроков и прокрутка. Ранги от Воина 1-го ранга выделяются яркой RGB-подсветкой."
 }
