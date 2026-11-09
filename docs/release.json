@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.39",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.39/Aion2Addons-Setup-1.1.39.exe",
-  "size": 115794938,
-  "sha256": "5f3c293cecd3c67a147cd7a7bd5d640e44273188078fd76e6ab69ea6d52b0cf3",
-  "notes": "В основном окне Дозора сверху показан ник. Во второй строке идут ранг, класс и остальные данные."
+  "version": "1.1.40",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.40/Aion2Addons-Setup-1.1.40.exe",
+  "size": 115795522,
+  "sha256": "5ed1db0d161b8929d259496104f5fd82aa84df6a0017920a799672dc23cbf8e1",
+  "notes": "Дозор показывает ник сверху, ранг и класс снизу. Класс добавлен в историю PvP. В настройках доступно оповещение Сигнал + голос."
 }
