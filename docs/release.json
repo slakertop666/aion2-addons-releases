@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.38",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.38/Aion2Addons-Setup-1.1.38.exe",
-  "size": 115793986,
-  "sha256": "30b53b1124d94164e584248a59ea1e9fc0f5e339911844469869758519cd219d",
-  "notes": "В основном окне Дозора ник показан на первой строке, а ранг и остальная информация на второй."
+  "version": "1.1.39",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.39/Aion2Addons-Setup-1.1.39.exe",
+  "size": 115794938,
+  "sha256": "5f3c293cecd3c67a147cd7a7bd5d640e44273188078fd76e6ab69ea6d52b0cf3",
+  "notes": "В основном окне Дозора сверху показан ник. Во второй строке идут ранг, класс и остальные данные."
 }
