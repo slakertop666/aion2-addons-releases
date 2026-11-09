@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.26",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.26/Aion2Addons-Setup-1.1.26.exe",
-  "size": 115766493,
-  "sha256": "13db0a430a16500895f6b6f2b1bb8edd8e0943bec71f849053780aeab9852bd5",
-  "notes": "Класс погибшего в киллфиде и новый дизайн спидометра очков Бездны."
+  "version": "1.1.27",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.27/Aion2Addons-Setup-1.1.27.exe",
+  "size": 115770184,
+  "sha256": "c5c3c52619b5ef8153df3f4551019d7ee7b06573755c75d875a77986bbffb4ba",
+  "notes": "В ДПС-метре показано числовое HP босса в компактном и полном окнах."
 }
