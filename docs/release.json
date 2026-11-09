@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.27",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.27/Aion2Addons-Setup-1.1.27.exe",
-  "size": 115770184,
-  "sha256": "c5c3c52619b5ef8153df3f4551019d7ee7b06573755c75d875a77986bbffb4ba",
-  "notes": "В ДПС-метре показано числовое HP босса в компактном и полном окнах."
+  "version": "1.1.28",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.28/Aion2Addons-Setup-1.1.28.exe",
+  "size": 115777043,
+  "sha256": "ed9111681031dac64cd4e183208c3438157b6e020bc9d5c43b6a19efd7ac6402",
+  "notes": "ДПС-метр показывает отдельные шкалы HP ближайших боссов до начала боя."
 }
