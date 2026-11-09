@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.28",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.28/Aion2Addons-Setup-1.1.28.exe",
-  "size": 115777043,
-  "sha256": "ed9111681031dac64cd4e183208c3438157b6e020bc9d5c43b6a19efd7ac6402",
-  "notes": "ДПС-метр показывает отдельные шкалы HP ближайших боссов до начала боя."
+  "version": "1.1.29",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.29/Aion2Addons-Setup-1.1.29.exe",
+  "size": 115775599,
+  "sha256": "6a7ad88dd52e862475a657392c3a2fba94958f3bb5b593fe0d493f3dcee1930e",
+  "notes": "Здоровье ближайших боссов показано красными полосами с числами и процентами внутри."
 }
