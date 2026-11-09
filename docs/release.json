@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.31",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.31/Aion2Addons-Setup-1.1.31.exe",
-  "size": 115779880,
-  "sha256": "6b036384fb3f89e5652e7550f2a49cfa9bd6f272a7f1d883da790c28b61741d8",
-  "notes": "Дозор определяет ранг Бездны по игровым данным, показывает и озвучивает его на русском или английском. Сигнал опасного противника звучит вместе с голосом."
+  "version": "1.1.32",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.32/Aion2Addons-Setup-1.1.32.exe",
+  "size": 115781444,
+  "sha256": "455260ce310e2ce1e00c223574886b1c7188caf78ad38f13c50bb3bd23df54b0",
+  "notes": "В основном окне Дозора ранг показан рядом с ником. Голос называет сначала ранг, затем класс."
 }
