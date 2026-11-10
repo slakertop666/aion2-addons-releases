@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.41",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.41/Aion2Addons-Setup-1.1.41.exe",
-  "size": 115800410,
-  "sha256": "5c40d45c412a5f1fd1c5b8de225a05e326a51f87924a216512db61510b5f3117",
-  "notes": "При выходе из игры аддоны и мастер-клиент закрываются с сохранением состояния. Трей восстанавливает окна при следующем запуске AION 2."
+  "version": "1.1.42",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.42/Aion2Addons-Setup-1.1.42.exe",
+  "size": 115800687,
+  "sha256": "0ac2866af63ab0a7944a9357579d9dc6d0ca84c30034c6c8ed47356c24de957b",
+  "notes": "Мастер-клиент открывает настройки скрытого Дозора и разворачивает свёрнутый Дозор. В Бездне окно показывает ожидание данных персонажа."
 }
