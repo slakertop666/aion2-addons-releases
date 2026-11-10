@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.40",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.40/Aion2Addons-Setup-1.1.40.exe",
-  "size": 115795522,
-  "sha256": "5ed1db0d161b8929d259496104f5fd82aa84df6a0017920a799672dc23cbf8e1",
-  "notes": "Дозор показывает ник сверху, ранг и класс снизу. Класс добавлен в историю PvP. В настройках доступно оповещение Сигнал + голос."
+  "version": "1.1.41",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.41/Aion2Addons-Setup-1.1.41.exe",
+  "size": 115800410,
+  "sha256": "5c40d45c412a5f1fd1c5b8de225a05e326a51f87924a216512db61510b5f3117",
+  "notes": "При выходе из игры аддоны и мастер-клиент закрываются с сохранением состояния. Трей восстанавливает окна при следующем запуске AION 2."
 }
