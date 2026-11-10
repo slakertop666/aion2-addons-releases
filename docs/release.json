@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.43",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.43/Aion2Addons-Setup-1.1.43.exe",
-  "size": 115809896,
-  "sha256": "c7c7d3bef5359fa92ab739cb9aaed16e4cfea1acc66b5ea44902abbcc2d353ed",
-  "notes": "Дозор Бездны работает во всех локациях и разворачивается при запуске игры. DPS-метр мировых боссов показывает свою группу, когда получен её состав, и отмечает попадания без суммы урона."
+  "version": "1.1.44",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.44/Aion2Addons-Setup-1.1.44.exe",
+  "size": 115813768,
+  "sha256": "01781ca1acada697e2d7958da4016b372e8bc455ca5dade0c854fdf3c3f1c2f1",
+  "notes": "Питомцы: цели фарма выбираются в текущем мире, подземелья показываются отдельно. После завершения целей текущего мира аддон предлагает другой мир."
 }
