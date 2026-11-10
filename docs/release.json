@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.42",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.42/Aion2Addons-Setup-1.1.42.exe",
-  "size": 115800687,
-  "sha256": "0ac2866af63ab0a7944a9357579d9dc6d0ca84c30034c6c8ed47356c24de957b",
-  "notes": "Мастер-клиент открывает настройки скрытого Дозора и разворачивает свёрнутый Дозор. В Бездне окно показывает ожидание данных персонажа."
+  "version": "1.1.43",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.43/Aion2Addons-Setup-1.1.43.exe",
+  "size": 115809896,
+  "sha256": "c7c7d3bef5359fa92ab739cb9aaed16e4cfea1acc66b5ea44902abbcc2d353ed",
+  "notes": "Дозор Бездны работает во всех локациях и разворачивается при запуске игры. DPS-метр мировых боссов показывает свою группу, когда получен её состав, и отмечает попадания без суммы урона."
 }
