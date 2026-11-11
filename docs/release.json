@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.44",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.44/Aion2Addons-Setup-1.1.44.exe",
-  "size": 115813768,
-  "sha256": "01781ca1acada697e2d7958da4016b372e8bc455ca5dade0c854fdf3c3f1c2f1",
-  "notes": "Питомцы: цели фарма выбираются в текущем мире, подземелья показываются отдельно. После завершения целей текущего мира аддон предлагает другой мир."
+  "version": "1.1.48",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.48/Aion2Addons-Setup-1.1.48.exe",
+  "size": 115839546,
+  "sha256": "9e3740009eee8ba7d9f1d9d455f239d74e341fad608d40f7a7e31809e678990a",
+  "notes": "Запуск аддонов Бездны: видимое ожидание данных, дозор поверх игры по умолчанию, настройки дозора в мастер-клиенте. Улучшена карта питомцев и добавлено перетаскивание шестерёнки."
 }
