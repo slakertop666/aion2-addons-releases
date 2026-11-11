@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.51",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.51/Aion2Addons-Setup-1.1.51.exe",
-  "size": 115854902,
-  "sha256": "f21171859e61f92e5ea33544aff2ae84628d23b56c3ea7be22aeb1b0741dbec4",
-  "notes": "Коллекция питомцев сохраняется отдельно для персонажа и сервера. После сбоев показывается сохранённый прогресс с отметкой неточности; свежая коллекция игры обновляет его автоматически."
+  "version": "1.1.52",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.52/Aion2Addons-Setup-1.1.52.exe",
+  "size": 115858262,
+  "sha256": "87b08b749c2a2b06824001c3b6ac723fa66c087c0ee45cec6830e82a5e7ccc0a",
+  "notes": "Подсказки Чёрного рынка сохраняются на остальных карточках при выборе питомца. Распознавание работает в фоне и не скрывает весь оверлей."
 }
