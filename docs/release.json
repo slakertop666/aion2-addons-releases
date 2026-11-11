@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.48",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.48/Aion2Addons-Setup-1.1.48.exe",
-  "size": 115839546,
-  "sha256": "9e3740009eee8ba7d9f1d9d455f239d74e341fad608d40f7a7e31809e678990a",
-  "notes": "Запуск аддонов Бездны: видимое ожидание данных, дозор поверх игры по умолчанию, настройки дозора в мастер-клиенте. Улучшена карта питомцев и добавлено перетаскивание шестерёнки."
+  "version": "1.1.49",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.49/Aion2Addons-Setup-1.1.49.exe",
+  "size": 115836444,
+  "sha256": "7e76e7183232837e6b842565131d330a18417f2f62f3611ba463d95b690d9550",
+  "notes": "Мастер поддерживает единый сетевой захват всё время работы AION 2, даже без включённых панелей. Аддоны используют общий поток без повторного запуска захвата."
 }
