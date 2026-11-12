@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.52",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.52/Aion2Addons-Setup-1.1.52.exe",
-  "size": 115858262,
-  "sha256": "87b08b749c2a2b06824001c3b6ac723fa66c087c0ee45cec6830e82a5e7ccc0a",
-  "notes": "Подсказки Чёрного рынка сохраняются на остальных карточках при выборе питомца. Распознавание работает в фоне и не скрывает весь оверлей."
+  "version": "1.1.53",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.53/Aion2Addons-Setup-1.1.53.exe",
+  "size": 115863293,
+  "sha256": "d0f1f9c730e93bad7cc90ac78bd33a4375d4eb5ec853b8c243c5d70a92f56a2b",
+  "notes": "Исправлена потеря персонажа в Дозоре Бездны: основной поток меняется по подтверждению игры, при пропусках пакетов сохраняются данные персонажа и очищаются устаревшие контакты."
 }
