@@ -1,8 +1,8 @@
 {
   "available": true,
-  "version": "1.1.58",
-  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.58/Aion2Addons-Setup-1.1.58.exe",
-  "size": 116114549,
-  "sha256": "fad1a805cce13c53ba4df1c3f48fc46b0751051b1331af6172fb8a74a6a9ebe0",
-  "notes": "Исправлено переключение персонажей и получение коллекции питомцев; проверка привязки данных во всех панелях, сброс старого класса и координат, таймеры раздельно по серверам."
+  "version": "1.1.59",
+  "url": "https://github.com/slakertop666/aion2-addons-releases/releases/download/v1.1.59/Aion2Addons-Setup-1.1.59.exe",
+  "size": 116126554,
+  "sha256": "4cf26fff9c853538e6e859b1917fbe25139d9190651569789d6b15dd82d13d14",
+  "notes": "Рекомендации по питомцам сохраняются в сюжетных и событийных областях и обновляются после выхода в открытый мир; добавлены подтверждённые контексты областей без подмены координат карты."
 }
